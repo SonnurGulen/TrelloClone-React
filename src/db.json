@@ -1,0 +1,25 @@
+{
+  "boards": [
+    {
+      "id": "board-1",
+      "title": "To Do",
+      "cards": []
+    },
+    {
+      "id": "board-2",
+      "title": "In Progress",
+      "cards": [
+        {
+          "id": "card-2",
+          "title": "4567",
+          "content": "sdfghjkıl"
+        }
+      ]
+    },
+    {
+      "id": "board-3",
+      "title": "Done",
+      "cards": []
+    }
+  ]
+}
